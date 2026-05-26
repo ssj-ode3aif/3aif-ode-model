@@ -1,4 +1,4 @@
-"""
+""
 3-Axis Integrative Framework (3-AIF) ODE Simulation
 ====================================================
 A six-variable ODE system modelling difficult-to-treat (D2T) rheumatic disease.
